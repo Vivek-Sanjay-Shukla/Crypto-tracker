@@ -1,0 +1,21 @@
+.banner{
+    background-image: url(./crypto.jpg);
+    background-repeat: no-repeat;
+}
+
+.bannerContainer{
+
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    justify-content: space-around;
+}
+
+.tagline{
+    display: flex;
+    height: 40%;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}

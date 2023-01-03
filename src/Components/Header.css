@@ -1,0 +1,10 @@
+.title{
+    flex: 1;
+    color: rgb(255, 219, 88);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.menuitem-curr{
+    color: white;
+}

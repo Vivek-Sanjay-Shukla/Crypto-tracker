@@ -1,0 +1,17 @@
+.selectButton{
+    border: 1px solid gold;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    background-color: transparent;
+    color: white;
+    font-weight: 700;
+    width: 22%;
+}
+
+.selectButton:hover{
+    background-color: gold;
+    color: black;
+}
